@@ -11,6 +11,7 @@ import { CaseStudies } from './components/sections/CaseStudies'
 import { Testimonials } from './components/sections/Testimonials'
 import { TechStack } from './components/sections/TechStack'
 import { CTA } from './components/sections/CTA'
+import StartProjectOverlay from './components/StartProjectOverlay'
 
 export default function App() {
   return (
@@ -35,6 +36,7 @@ export default function App() {
         <CTA />
       </main>
       <Footer />
+      <StartProjectOverlay />
     </ThemeProvider>
   )
 }
