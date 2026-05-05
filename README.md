@@ -74,3 +74,8 @@ Swap the `.dark` class on `<html>` to switch themes. The provider also syncs
 Everything user-facing lives in `src/lib/data.js` (brand info, services,
 process, portfolio URLs, testimonials, tech stack). No string edits required
 inside components.
+
+## Branding
+
+- Template branding and attribution by Tronzlabs
+- Website: [tronzlabs.com](https://tronzlabs.com)
